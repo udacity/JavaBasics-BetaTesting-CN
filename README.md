@@ -22,9 +22,9 @@
 
 你可以分配给的优达学城工作人员：
 
-> 前端开发社群负责人：@Udacitymiaomiao
+> 社群负责人：@miumiuLimengzhu
 >
 > 本地化负责人：@sylviasun916
 >
-> 前端开发课程经理：@ChengGoooo
+> 课程经理：@ChengGoooo
 
